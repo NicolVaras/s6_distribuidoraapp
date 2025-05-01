@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114833840337",
+    "project_id": "s6-distribuidoraapp",
+    "storage_bucket": "s6-distribuidoraapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114833840337:android:e6e192b9fc23d10e340df0",
+        "android_client_info": {
+          "package_name": "com.example.s6_distribuidoraapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzgE6l1MXYHzOrflVA5u-GQWeCCFmwRD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
